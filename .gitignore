@@ -1,0 +1,8 @@
+.vscode/*
+*/logs/*
+*.bak
+*.ckpt
+*.old
+*.pyc
+checkpoint
+my_*
